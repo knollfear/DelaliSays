@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0737261698e50e1a37c00aa47c6a6094",
+    "revision": "67cab6b17f6180db59b8474cf4238d3e",
     "url": "/DelaliSays/index.html"
   },
   {
-    "revision": "523fa5563b4c75983118",
+    "revision": "99ab9b56c57824c8f199",
     "url": "/DelaliSays/static/css/main.da8508bd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DelaliSays/static/js/2.bf897b86.chunk.js.LICENSE"
   },
   {
-    "revision": "523fa5563b4c75983118",
-    "url": "/DelaliSays/static/js/main.3fbf4604.chunk.js"
+    "revision": "99ab9b56c57824c8f199",
+    "url": "/DelaliSays/static/js/main.81c8f927.chunk.js"
   },
   {
     "revision": "78cd8fec94d0aa46ea74",
