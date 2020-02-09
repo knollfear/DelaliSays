@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DelaliSays/static/css/main.da8508bd.chunk.css",
+    "main.js": "/DelaliSays/static/js/main.3fbf4604.chunk.js",
+    "main.js.map": "/DelaliSays/static/js/main.3fbf4604.chunk.js.map",
+    "runtime-main.js": "/DelaliSays/static/js/runtime-main.2cd7c18b.js",
+    "runtime-main.js.map": "/DelaliSays/static/js/runtime-main.2cd7c18b.js.map",
+    "static/js/2.bf897b86.chunk.js": "/DelaliSays/static/js/2.bf897b86.chunk.js",
+    "static/js/2.bf897b86.chunk.js.map": "/DelaliSays/static/js/2.bf897b86.chunk.js.map",
+    "index.html": "/DelaliSays/index.html",
+    "precache-manifest.e5231d26ab8a947e6d3243bf8073305b.js": "/DelaliSays/precache-manifest.e5231d26ab8a947e6d3243bf8073305b.js",
+    "service-worker.js": "/DelaliSays/service-worker.js",
+    "static/css/main.da8508bd.chunk.css.map": "/DelaliSays/static/css/main.da8508bd.chunk.css.map",
+    "static/js/2.bf897b86.chunk.js.LICENSE": "/DelaliSays/static/js/2.bf897b86.chunk.js.LICENSE",
+    "static/media/logo.svg": "/DelaliSays/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cd7c18b.js",
+    "static/js/2.bf897b86.chunk.js",
+    "static/css/main.da8508bd.chunk.css",
+    "static/js/main.3fbf4604.chunk.js"
+  ]
+}
