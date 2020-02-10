@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DelaliSays/precache-manifest.e5231d26ab8a947e6d3243bf8073305b.js"
+  "/DelaliSays/precache-manifest.dbc1d531f3d98fb33dff20a3f4f5f415.js"
 );
 
 self.addEventListener('message', (event) => {
